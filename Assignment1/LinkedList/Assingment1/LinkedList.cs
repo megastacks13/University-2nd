@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TPP.LinkedList
 {
@@ -140,7 +136,7 @@ namespace TPP.LinkedList
 
         public override string ToString()
         {
-            if (head == null) return string.Empty;
+            if (head == null) return "EMPTY";
             string str = "";
             Node actualNode = head;
             for (int i = 0; i < numberOfElements; i++)
