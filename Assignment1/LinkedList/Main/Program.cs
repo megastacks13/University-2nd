@@ -11,6 +11,7 @@ namespace TPP.LinkedList
             Console.WriteLine(l.ToString());
             l.Remove(1);
             l.Remove(2);
+            l.Remove(3);
             Console.WriteLine(l.ToString());
             int[] intArr = {1, 2, 3, 4, 5, 5, 4, 12, 1293};
             l.Add(intArr);
