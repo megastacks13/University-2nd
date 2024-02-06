@@ -1,0 +1,12 @@
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Pont2D\obj\Debug\net5.0\Pont2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Pont2D\obj\Debug\net5.0\Pont2D.AssemblyInfoInputs.cache
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Pont2D\obj\Debug\net5.0\Pont2D.AssemblyInfo.cs
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Pont2D\obj\Debug\net5.0\Pont2D.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Pont2D\obj\Debug\net5.0\Pont2D.sourcelink.json
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Pont2D\bin\Debug\net5.0\Pont2D.deps.json
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Pont2D\bin\Debug\net5.0\Pont2D.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Pont2D\bin\Debug\net5.0\Pont2D.pdb
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Pont2D\obj\Debug\net5.0\Pont2D.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Pont2D\obj\Debug\net5.0\refint\Pont2D.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Pont2D\obj\Debug\net5.0\Pont2D.pdb
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Pont2D\obj\Debug\net5.0\ref\Pont2D.dll

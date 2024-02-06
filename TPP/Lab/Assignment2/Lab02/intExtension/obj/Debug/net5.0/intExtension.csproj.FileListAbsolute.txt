@@ -1,0 +1,12 @@
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\intExtension\bin\Debug\net5.0\intExtension.deps.json
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\intExtension\bin\Debug\net5.0\intExtension.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\intExtension\bin\Debug\net5.0\intExtension.pdb
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\intExtension\obj\Debug\net5.0\intExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\intExtension\obj\Debug\net5.0\intExtension.AssemblyInfoInputs.cache
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\intExtension\obj\Debug\net5.0\intExtension.AssemblyInfo.cs
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\intExtension\obj\Debug\net5.0\intExtension.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\intExtension\obj\Debug\net5.0\intExtension.sourcelink.json
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\intExtension\obj\Debug\net5.0\intExtension.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\intExtension\obj\Debug\net5.0\refint\intExtension.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\intExtension\obj\Debug\net5.0\intExtension.pdb
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\intExtension\obj\Debug\net5.0\ref\intExtension.dll

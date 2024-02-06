@@ -1,0 +1,15 @@
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Lab02Test\obj\Debug\Lab02Test.csproj.AssemblyReference.cache
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Lab02Test\obj\Debug\Lab02Test.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Lab02Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Lab02Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Lab02Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Lab02Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Lab02Test\bin\Debug\Lab02Test.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Lab02Test\bin\Debug\Lab02Test.pdb
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Lab02Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Lab02Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Lab02Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Lab02Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Lab02Test\obj\Debug\Lab02Test.csproj.CopyComplete
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Lab02Test\obj\Debug\Lab02Test.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\Lab02\Lab02Test\obj\Debug\Lab02Test.pdb

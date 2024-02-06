@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9MFDaxKKAPKZ3InD6s6fmdqikO5jsnOhZSPUCHIHsg7Rua0mbFTKx9PhohFatqKB4yLQZyO5f7TgilQ13RcAzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jaime Alonso\\Documents\\UNIOVI\\2ndo\\TPP\\Lab\\Point2D\\ConsoleApp3\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jaime Alonso\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Jaime Alonso\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Jaime Alonso\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Jaime Alonso\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

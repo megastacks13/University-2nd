@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab02/1.0.0": {
+        "dependencies": {
+          "Pont2D": "1.0.0",
+          "intExtension": "1.0.0"
+        },
+        "runtime": {
+          "Lab02.dll": {}
+        }
+      },
+      "intExtension/1.0.0": {
+        "runtime": {
+          "intExtension.dll": {}
+        }
+      },
+      "Pont2D/1.0.0": {
+        "runtime": {
+          "Pont2D.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "intExtension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pont2D/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

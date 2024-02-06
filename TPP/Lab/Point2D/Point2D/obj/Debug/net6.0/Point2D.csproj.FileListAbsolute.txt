@@ -1,0 +1,42 @@
+C:\Users\uo294532\source\repos\consoleApp\Point2D\bin\Debug\net6.0\Point2D.deps.json
+C:\Users\uo294532\source\repos\consoleApp\Point2D\bin\Debug\net6.0\Point2D.dll
+C:\Users\uo294532\source\repos\consoleApp\Point2D\bin\Debug\net6.0\Point2D.pdb
+C:\Users\uo294532\source\repos\consoleApp\Point2D\bin\Debug\net6.0\Point2D.xml
+C:\Users\uo294532\source\repos\consoleApp\Point2D\obj\Debug\net6.0\Point2D.csproj.AssemblyReference.cache
+C:\Users\uo294532\source\repos\consoleApp\Point2D\obj\Debug\net6.0\Point2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uo294532\source\repos\consoleApp\Point2D\obj\Debug\net6.0\Point2D.AssemblyInfoInputs.cache
+C:\Users\uo294532\source\repos\consoleApp\Point2D\obj\Debug\net6.0\Point2D.AssemblyInfo.cs
+C:\Users\uo294532\source\repos\consoleApp\Point2D\obj\Debug\net6.0\Point2D.csproj.CoreCompileInputs.cache
+C:\Users\uo294532\source\repos\consoleApp\Point2D\obj\Debug\net6.0\Point2D.dll
+C:\Users\uo294532\source\repos\consoleApp\Point2D\obj\Debug\net6.0\refint\Point2D.dll
+C:\Users\uo294532\source\repos\consoleApp\Point2D\obj\Debug\net6.0\Point2D.xml
+C:\Users\uo294532\source\repos\consoleApp\Point2D\obj\Debug\net6.0\Point2D.pdb
+C:\Users\uo294532\source\repos\consoleApp\Point2D\obj\Debug\net6.0\ref\Point2D.dll
+D:\Point2D\Point2D\bin\Debug\net6.0\Point2D.deps.json
+D:\Point2D\Point2D\bin\Debug\net6.0\Point2D.dll
+D:\Point2D\Point2D\bin\Debug\net6.0\Point2D.pdb
+D:\Point2D\Point2D\bin\Debug\net6.0\Point2D.xml
+D:\Point2D\Point2D\obj\Debug\net6.0\Point2D.csproj.AssemblyReference.cache
+D:\Point2D\Point2D\obj\Debug\net6.0\Point2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\Point2D\Point2D\obj\Debug\net6.0\Point2D.AssemblyInfoInputs.cache
+D:\Point2D\Point2D\obj\Debug\net6.0\Point2D.AssemblyInfo.cs
+D:\Point2D\Point2D\obj\Debug\net6.0\Point2D.csproj.CoreCompileInputs.cache
+D:\Point2D\Point2D\obj\Debug\net6.0\Point2D.dll
+D:\Point2D\Point2D\obj\Debug\net6.0\refint\Point2D.dll
+D:\Point2D\Point2D\obj\Debug\net6.0\Point2D.xml
+D:\Point2D\Point2D\obj\Debug\net6.0\Point2D.pdb
+D:\Point2D\Point2D\obj\Debug\net6.0\ref\Point2D.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Point2D\Point2D\bin\Debug\net6.0\Point2D.deps.json
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Point2D\Point2D\bin\Debug\net6.0\Point2D.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Point2D\Point2D\bin\Debug\net6.0\Point2D.pdb
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Point2D\Point2D\bin\Debug\net6.0\Point2D.xml
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Point2D\Point2D\obj\Debug\net6.0\Point2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Point2D\Point2D\obj\Debug\net6.0\Point2D.AssemblyInfoInputs.cache
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Point2D\Point2D\obj\Debug\net6.0\Point2D.AssemblyInfo.cs
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Point2D\Point2D\obj\Debug\net6.0\Point2D.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Point2D\Point2D\obj\Debug\net6.0\Point2D.sourcelink.json
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Point2D\Point2D\obj\Debug\net6.0\Point2D.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Point2D\Point2D\obj\Debug\net6.0\refint\Point2D.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Point2D\Point2D\obj\Debug\net6.0\Point2D.xml
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Point2D\Point2D\obj\Debug\net6.0\Point2D.pdb
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Point2D\Point2D\obj\Debug\net6.0\ref\Point2D.dll
