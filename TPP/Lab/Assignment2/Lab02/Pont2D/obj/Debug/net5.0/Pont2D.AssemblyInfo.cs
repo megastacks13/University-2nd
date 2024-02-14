@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pont2D")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23ef88f18d87c9b8ec8811ea8a33e37021a8afbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa1bd7a3501d534aa9eac8801b46b5b964df27b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pont2D")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pont2D")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

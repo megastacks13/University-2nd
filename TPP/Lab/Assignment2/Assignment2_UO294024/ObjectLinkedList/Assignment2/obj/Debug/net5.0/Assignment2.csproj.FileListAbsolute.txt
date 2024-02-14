@@ -1,0 +1,16 @@
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\obj\Debug\net5.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\obj\Debug\net5.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\obj\Debug\net5.0\Assignment2.AssemblyInfo.cs
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\obj\Debug\net5.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\obj\Debug\net5.0\Assignment2.sourcelink.json
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\bin\Debug\net5.0\Assignment2.exe
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\bin\Debug\net5.0\Assignment2.deps.json
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\bin\Debug\net5.0\Assignment2.runtimeconfig.json
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\bin\Debug\net5.0\Assignment2.runtimeconfig.dev.json
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\bin\Debug\net5.0\Assignment2.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\bin\Debug\net5.0\Assignment2.pdb
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\obj\Debug\net5.0\Assignment2.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\obj\Debug\net5.0\refint\Assignment2.dll
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\obj\Debug\net5.0\Assignment2.pdb
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\obj\Debug\net5.0\Assignment2.genruntimeconfig.cache
+C:\Users\Jaime Alonso\Documents\UNIOVI\2ndo\TPP\Lab\Assignment2\ObjectLinkedList\Assignment2\obj\Debug\net5.0\ref\Assignment2.dll
